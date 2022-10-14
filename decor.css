@@ -1,0 +1,45 @@
+body{
+background-image:url(hátér/hatterem3.jpg)
+
+
+}
+#kontener{
+    margin: auto;
+    width: 80%;
+    max-width: 700px;
+    padding: auto;
+    background-color: gray;
+    height: 1130px;
+    font-family: 'Gemunu Libre', sans-serif;
+    padding-top: 10px;
+    padding-right: 10px;
+    border-color: black;
+    color: white;
+
+
+}
+
+.akarmi{
+    clear: both;
+text-align: justify;
+font-family: 'Gemunu Libre', sans-serif;
+padding-top: 3px;
+padding-right: 10px;
+padding-left: 10px;
+}
+
+
+.BALRA{
+    float: left;
+    width: 250px;
+    margin: 20px;
+    border-style: dotted;
+    border-color: black;
+}
+#JOBBRA{
+    float: right;
+    width: 250px;
+    margin: 20px;
+    border-style: dotted;
+    border-color: black;
+}
